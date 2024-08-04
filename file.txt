@@ -1,0 +1,3 @@
+Hello world!
+I started to use Git! Git is the Version Control System (VCS)
+GitHub is the place where people post their Git repositories on Internet.
